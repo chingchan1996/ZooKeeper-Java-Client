@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="commons-cli-1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jar_files/commons-cli-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/zookeeper-3.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
